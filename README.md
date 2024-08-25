@@ -1,4 +1,5 @@
 Sentiment Analysis of Social Media Data
+
 Project Overview
 This project focuses on analyzing sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands. The analysis is done using a dataset containing social media posts (e.g., tweets), and the sentiment is classified as Positive, Negative, or Neutral. The project includes data preprocessing, sentiment analysis using TextBlob, and visualizations of the results.
 
